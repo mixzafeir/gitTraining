@@ -105,7 +105,7 @@ while repeatcheck==0:
 
     while out == 0:
         if player==1:
-            print ("player 1 enter your position ")
+            print ("player 11 enter your position ")
             myarray=playerChoice(myarray,player)
             count += 1
             out=defineOutcome(myarray)
